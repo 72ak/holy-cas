@@ -4,6 +4,14 @@ This file contains documentation on mechanics, audio and GUI for the first itera
 All statements about "eventual" or "future" updates and additions are made with the assumption that this iteration of the proof-of-concept (or a variant thereof) is the one that is being run with.
 THIS DOES NOT MEAN THAT THIS VERSION OR A VAIRANT THEREOF IS FINAL.
 
+**REQUIRED PACKAGES**
+    - time
+    - random
+    - playsound (ver=1.2.2)
+    - audioread
+    - threading
+    - tkinter
+
 **THE AUDIO**
     - The game package comes with 1 audio file.
     - The audio file contains the game's music.
